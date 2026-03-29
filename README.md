@@ -52,7 +52,7 @@ This experience strengthened my systems thinking, technical responsibility, and 
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Snir_Yehuda-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/snir-yehuda-9620a917)  
-[![Email](https://img.shields.io/badge/Email-snir.yeuda%40gmail.com-D14836?style=flat&logo=gmail)](mailto:snir.yehuda%40gmail.com)
+[![Email](https://img.shields.io/badge/Email-snir.yeuda%40gmail.com-D14836?style=flat&logo=gmail)](mailto:snir.yeuda%40gmail.com)
 <!--
 **SnirY/SnirY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
