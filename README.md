@@ -1,51 +1,67 @@
 # Hi, I'm Snir 👋
 
-**Software Engineering Graduate** focused on Backend and Full-Stack Development, with hands-on experience in Machine Learning and Computer Vision systems.
+Software Engineering graduate focused on Python backend development, full-stack engineering, and AI applications, with project experience in machine learning and computer vision.
 
-📍 Israel &nbsp;|&nbsp; 🎓 B.Sc. Software Engineering, Braude College (2026) &nbsp;|&nbsp; 🛡️ Former Radar Team Leader, Arrow Defense Corps
+**B.Sc. Software Engineering, Braude College (2026) · Israel**
 
----
+## Selected Projects
 
-## 🔭 Selected Projects
+### Job Intelligence Platform
 
-### 🏥 [NICU Infant Length Measurement](https://github.com/SnirY/Infant-Length-Measurement-System)
-Computer vision prototype for non-invasive infant length estimation from a single top-down RGB image, using **YOLOv8 + OpenPose**.  
-Designed around a NICU-oriented measurement workflow, combining object detection, pose-based keypoint analysis, and image-based calibration.  
-`Python` `YOLOv8` `OpenPose` `OpenCV`
+My main project: a full-stack application that turns job postings into structured requirements and matches them against a candidate profile, showing per-requirement fit and skill gaps.
 
-### ⚽ Football Match Prediction ML Pipeline *(public repository coming soon)*
-End-to-end machine learning pipeline for predicting football match outcomes using historical match data, feature engineering, and structured storage.  
-Includes data collection, feature engineering, model training, and backtesting workflows built for practical evaluation and decision support.  
-`Python` `XGBoost` `PostgreSQL` `REST APIs`
+- **Backend & web:** FastAPI and Next.js, with PostgreSQL and SQLAlchemy.
+- **Matching engine:** deterministic and versioned; links each supported match to evidence from the candidate profile and flags unmet requirements.
+- **LLM integration:** resume import pipeline with schema validation, versioned prompts, and run tracking.
+- **Infrastructure:** background processing with Redis/RQ, authentication, and database migrations with Alembic.
+- **Testing:** automated regression tests running in CI with GitHub Actions.
 
----
+**Stack:** Python, FastAPI, Next.js, PostgreSQL, SQLAlchemy, Redis/RQ, Docker, pytest, GitHub Actions
 
-## 🛠️ Tech Stack
+*Source code is private; a demo walkthrough is available on request.*
 
-**Languages**  
-`Python` `JavaScript / TypeScript` `Java` `C` `SQL`
+### [Infant Length Measurement System](https://github.com/SnirY/Infant-Length-Measurement-System)
 
-**Backend / Web**  
-`FastAPI` `Node.js` `React` `REST APIs`
+B.Sc. final project (team of 2): a computer vision prototype for estimating infant head-to-heel length from a single top-down RGB image.
 
-**ML / Computer Vision**  
-`YOLOv8` `OpenPose` `OpenCV` `XGBoost` `TensorFlow`
+- Combines YOLOv8 reference-object detection, OpenPose keypoints, and image calibration to convert pixel measurements into centimeters.
+- Provides an offline desktop interface with annotated results for visual inspection.
+- Evaluated as a non-clinical feasibility prototype using an infant-sized doll.
 
-**Tools & Platforms**  
-`PostgreSQL` `Docker` `Git` `Linux`
+**Stack:** Python, YOLOv8, OpenPose, OpenCV, Tkinter
 
----
+### Football Match Prediction
 
-## 🎖️ Background
+Machine learning pipeline for predicting football match outcomes from historical data and football statistics APIs.
 
-Background in radar and detection systems through military service in the Arrow Missile Defense Corps — experience that strengthened my systems thinking and ability to work in complex technical environments.
+- Collects and stores football data in PostgreSQL.
+- Trains XGBoost models on features derived from historical team form and player statistics.
+- Evaluates models with chronological, season-based backtesting designed to avoid look-ahead bias.
 
----
+**Stack:** Python, XGBoost, PostgreSQL, REST APIs
 
-## 📫 Get in Touch
+*Repository not yet public.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Snir_Yehuda-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/snir-yehuda-9620a917)  
-[![Email](https://img.shields.io/badge/Email-snir.yeuda%40gmail.com-D14836?style=flat&logo=gmail)](mailto:snir.yeuda@gmail.com)
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, SQL, Java, C |
+| Backend & Web | FastAPI, SQLAlchemy, REST APIs, Next.js, React |
+| Data & Background Processing | PostgreSQL, Redis/RQ, Alembic |
+| Machine Learning & Computer Vision | XGBoost, YOLOv8, OpenPose, OpenCV |
+| Development & Testing | Git, Linux, Docker, pytest, GitHub Actions |
+
+## Background
+
+Before my degree, I led a technical team maintaining and operating radar and detection systems in the IDF's Arrow missile defense unit, focusing on troubleshooting and operational readiness.
+
+I'm looking for junior software engineering roles in backend, full-stack, and AI applications, and I'm also interested in machine learning and computer vision roles.
+
+## Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/snir-yehuda-9620a917) · [Email](mailto:snir.yeuda@gmail.com)
+
 <!--
 **SnirY/SnirY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
