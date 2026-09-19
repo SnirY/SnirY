@@ -54,7 +54,7 @@ Machine learning pipeline for predicting football match outcomes from historical
 
 ## Background
 
-Before my degree, I led a technical team maintaining and operating radar and detection systems in the IDF's Arrow missile defense unit, focusing on troubleshooting and operational readiness.
+During my military service (2011–2014), I led a technical team maintaining and operating radar and detection systems in the IDF's Arrow missile defense unit.
 
 I'm looking for junior software engineering roles in backend, full-stack, and AI applications, and I'm also interested in machine learning and computer vision roles.
 
