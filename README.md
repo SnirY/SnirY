@@ -60,7 +60,7 @@ I'm looking for junior software engineering roles in backend, full-stack, and AI
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/snir-yehuda-9620a917) · [Email](mailto:snir.yeuda@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/snir-yehuda) · [Email](mailto:snir.yeuda@gmail.com)
 
 <!--
 **SnirY/SnirY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
