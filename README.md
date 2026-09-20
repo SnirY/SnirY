@@ -1,6 +1,6 @@
 # Hi, I'm Snir 👋
 
-Software Engineering graduate focused on Python backend development, full-stack engineering, and AI applications, with project experience in machine learning and computer vision.
+Software Engineering graduate focused on Python backend development and AI applications, with project experience in machine learning and computer vision.
 
 **B.Sc. Software Engineering, Braude College (2026) · Israel**
 
@@ -10,13 +10,13 @@ Software Engineering graduate focused on Python backend development, full-stack 
 
 My main project: a full-stack application that turns job postings into structured requirements and matches them against a candidate profile, showing per-requirement fit and skill gaps.
 
-- **Backend & web:** FastAPI and Next.js, with PostgreSQL and SQLAlchemy.
+- **Backend:** FastAPI with PostgreSQL and SQLAlchemy, and a Next.js frontend.
 - **Matching engine:** deterministic and versioned; links each supported match to evidence from the candidate profile and flags unmet requirements.
 - **LLM integration:** resume import pipeline with schema validation, versioned prompts, and run tracking.
 - **Infrastructure:** background processing with Redis/RQ, authentication, and database migrations with Alembic.
 - **Testing:** automated regression tests running in CI with GitHub Actions.
 
-**Stack:** Python, FastAPI, Next.js, PostgreSQL, SQLAlchemy, Redis/RQ, Docker, pytest, GitHub Actions
+**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis/RQ, Docker, pytest, GitHub Actions, Next.js
 
 *Source code is private; a demo walkthrough is available on request.*
 
@@ -46,17 +46,18 @@ Machine learning pipeline for predicting football match outcomes from historical
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, SQL, Java, C |
-| Backend & Web | FastAPI, SQLAlchemy, REST APIs, Next.js, React |
+| Languages | Python, SQL, Java, C |
+| Backend | FastAPI, SQLAlchemy, REST APIs |
 | Data & Background Processing | PostgreSQL, Redis/RQ, Alembic |
-| Machine Learning & Computer Vision | XGBoost, YOLOv8, OpenPose, OpenCV |
+| Machine Learning & Computer Vision | XGBoost, YOLOv8, OpenPose, OpenCV, LLM workflows |
 | Development & Testing | Git, Linux, Docker, pytest, GitHub Actions |
+| AI-Assisted Development | Claude Code, Codex, Cursor |
 
 ## Background
 
 During my military service (2011–2014), I led a technical team maintaining and operating radar and detection systems in the IDF's Arrow missile defense unit.
 
-I'm looking for junior software engineering roles in backend, full-stack, and AI applications, and I'm also interested in machine learning and computer vision roles.
+I'm looking for junior software engineering roles in backend and AI applications, and I'm also interested in machine learning and computer vision roles.
 
 ## Get in Touch
 
